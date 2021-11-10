@@ -1,4 +1,11 @@
-Hi this is a infinite scroll of picture 
+# INFINITE SCROLL , a unsplash API project
+
+Hi! this is a infinite scroll of picture 
+
+## Stacks 
+Javascript, CSS , API Unsplash
+
+## Description
 
 I take 30 pictures with the unsplash API and put it into a array. 
 With the Javascript I create HTML element and child them with the appendChild function 
